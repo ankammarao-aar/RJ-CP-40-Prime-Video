@@ -1,0 +1,34 @@
+.thumbnail-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.thumbnail {
+  width: 100%;
+}
+
+.popup-card {
+  padding: 12px;
+  padding-top: 0px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.close-button {
+  background-color: transparent;
+  border: none;
+  color: #231f20;
+  cursor: pointer;
+  outline: none;
+  align-self: flex-end;
+  padding-top: 10px;
+}
+
+.player-card {
+  padding: 20px;
+}

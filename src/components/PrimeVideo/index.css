@@ -1,0 +1,21 @@
+.prime-container {
+  background-color: #000000;
+  background-size: cover;
+}
+
+.prime-logo {
+  width: 100%;
+}
+
+.movies-card {
+  padding-left: 42px;
+  padding-right: 42px;
+  padding-bottom: 62px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+  margin-top: 32px;
+}
